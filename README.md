@@ -1,22 +1,5 @@
 # StringCalculatorTemplate
-Here is the small app I wanted you to do.
-I would like to see you do it in F#.
-You can also do it twice once with a language you are comfortable with and once with F#.
-
-This is probably the best resource on it.
-http://fsharpforfunandprofit.com/
-
-I personally like kit eason 
-https://www.pluralsight.com/courses/fsharp-jumpstart 
-
-but this course is good as well
-https://www.pluralsight.com/courses/fsharp-fundamentals
-
-I would also like for you to push your code to github.
-Please commit your code after each step.
-I want to see the progress of the code.
-Do not just commit after step 9 please.
-If you have any questions please feel free to email me.
+Here is the small app in F#
 
 ```
 1.Create a simple String calculator with a method int Add(string numbers)
